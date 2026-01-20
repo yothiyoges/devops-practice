@@ -1,2 +1,4 @@
 My first devops practice
 
+Day 2 - Learning Git daily workflow
+
